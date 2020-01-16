@@ -6,7 +6,7 @@ Understanding `React` from ground up`:100:
 
 This app demonstrates how to use `React`'s building blocks - elements and components. It also touch on state, props, working with form data, immutability, and fecting data from an API endpoint.
 
-[See the Demo](https://krebedev.github.io/react-basics/)
+[See the Demo](https://krebedev.github.io/react-basics01/)
 
 ## Technologies
 
